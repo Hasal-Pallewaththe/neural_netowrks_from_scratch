@@ -18,6 +18,7 @@ Where the target is now a one hot vector, x is the class with 1 in the one hot v
 
 
 * Special case - binary corss entropy loss for one particular class (class x in this case)  
+
 $$  
 \text{ binary cross entropy loss } = - [ p_x \cdot log (q_x) + (1 - p_x) \cdot log (1 - q_x)] 
 $$  

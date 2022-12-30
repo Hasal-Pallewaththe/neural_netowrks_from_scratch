@@ -1,1 +1,1 @@
-# neural_netowrks_from_scratch
+## Artificial Neural Networks From Scratch
